@@ -1,0 +1,377 @@
+/* screen - notifications */
+
+.notifications {
+  background-color: var(--half-and-half);
+  height: 982px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.notifications .unsplashsib-vw-or-yqs0-VdoMpK {
+  background-color: transparent;
+  height: 100px;
+  left: 1252px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 100px;
+}
+
+.notifications .unsplashm-ez3-po-f-gs_k-VdoMpK {
+  background-color: transparent;
+  height: 60px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 254px;
+  width: 60px;
+}
+
+.notifications .unsplashk-vg2-dqtak7c-VdoMpK {
+  background-color: transparent;
+  height: 60px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 438px;
+  width: 60px;
+}
+
+.notifications .unsplash6anudmp-i-lw4-VdoMpK {
+  background-color: transparent;
+  height: 60px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 622px;
+  width: 60px;
+}
+
+.notifications .unsplashw1-xu-hvzc-wo-i-VdoMpK {
+  background-color: transparent;
+  height: 60px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 806px;
+  width: 60px;
+}
+
+.notifications .notifications-VdoMpK {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: 356px;
+}
+
+.notifications .spanv75ir-hFLqXY {
+}
+
+.notifications .the-following-requested-for-a-meet-up-VdoMpK {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 116px;
+  width: 525px;
+}
+
+.notifications .spank06xv-FL68kU {
+}
+
+.notifications .rectangle-9-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 254px;
+  width: 679px;
+}
+
+.notifications .rectangle-14-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 438px;
+  width: 679px;
+}
+
+.notifications .rectangle-19-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 622px;
+  width: 679px;
+}
+
+.notifications .rectangle-24-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 806px;
+  width: 679px;
+}
+
+.notifications .rectangle-10-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 284px;
+  width: 601px;
+}
+
+.notifications .rectangle-15-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 468px;
+  width: 601px;
+}
+
+.notifications .rectangle-20-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 652px;
+  width: 601px;
+}
+
+.notifications .rectangle-25-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 836px;
+  width: 601px;
+}
+
+.notifications .rectangle-11-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 314px;
+  width: 350px;
+}
+
+.notifications .rectangle-16-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 498px;
+  width: 350px;
+}
+
+.notifications .rectangle-21-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 682px;
+  width: 350px;
+}
+
+.notifications .rectangle-26-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 866px;
+  width: 350px;
+}
+
+.notifications .rectangle-12-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 344px;
+  width: 538px;
+}
+
+.notifications .rectangle-17-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 528px;
+  width: 538px;
+}
+
+.notifications .rectangle-22-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 712px;
+  width: 538px;
+}
+
+.notifications .rectangle-27-VdoMpK {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  height: 22px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 896px;
+  width: 538px;
+}
+
+.notifications .rectangle-13-VdoMpK {
+  background-color: var(--madison);
+  border-radius: 20px;
+  height: 52px;
+  left: 1050px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 273px;
+  width: 302px;
+}
+
+.notifications .rectangle-18-VdoMpK {
+  background-color: var(--madison);
+  border-radius: 20px;
+  height: 52px;
+  left: 1050px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 457px;
+  width: 302px;
+}
+
+.notifications .rectangle-23-VdoMpK {
+  background-color: var(--madison);
+  border-radius: 20px;
+  height: 52px;
+  left: 1050px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 641px;
+  width: 302px;
+}
+
+.notifications .rectangle-28-VdoMpK {
+  background-color: var(--madison);
+  border-radius: 20px;
+  height: 52px;
+  left: 1050px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 825px;
+  width: 302px;
+}
+
+.notifications .accept-meet-up-VdoMpK {
+  background-color: transparent;
+  height: auto;
+  left: 1088px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  width: 256px;
+}
+
+.notifications .spandz32z-UtDNJ4 {
+}
+
+.notifications .accept-meet-up-GjCthK {
+  background-color: transparent;
+  height: auto;
+  left: 1088px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 463px;
+  width: 256px;
+}
+
+.notifications .spangcn2e-er1061 {
+}
+
+.notifications .accept-meet-up-MNeEP2 {
+  background-color: transparent;
+  height: auto;
+  left: 1088px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 646px;
+  width: 256px;
+}
+
+.notifications .spand9oes-3jDMfP {
+}
+
+.notifications .accept-meet-up-x3upxP {
+  background-color: transparent;
+  height: auto;
+  left: 1088px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 830px;
+  width: 256px;
+}
+
+.notifications .span8f6nx-RFxLuM {
+}

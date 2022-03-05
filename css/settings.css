@@ -1,0 +1,195 @@
+/* screen - settings */
+
+.settings {
+  background-color: var(--half-and-half);
+  height: 982px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.settings .rectangle-39-tQColF {
+  background-color: var(--mist-gray);
+  height: 92px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1512px;
+}
+
+.settings .privacy-policy-tQColF {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 140px;
+  width: 274px;
+}
+
+.settings .spanqu8eef-wPJy7n {
+}
+
+.settings .edit-profile-tQColF {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 501px;
+  width: 208px;
+}
+
+.settings .spank50aj-KXkljr {
+}
+
+.settings .rectangle-40-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 207px;
+  width: 1254px;
+}
+
+.settings .rectangle-45-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 568px;
+  width: 1254px;
+}
+
+.settings .rectangle-41-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 256px;
+  width: 958px;
+}
+
+.settings .rectangle-46-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 617px;
+  width: 958px;
+}
+
+.settings .rectangle-42-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 305px;
+  width: 1092px;
+}
+
+.settings .rectangle-47-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 666px;
+  width: 1092px;
+}
+
+.settings .rectangle-43-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 354px;
+  width: 727px;
+}
+
+.settings .rectangle-48-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 715px;
+  width: 727px;
+}
+
+.settings .rectangle-44-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 403px;
+  width: 848px;
+}
+
+.settings .rectangle-49-tQColF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 35px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 764px;
+  width: 848px;
+}
+
+.settings .arcticonssettings-tQColF {
+  background-color: transparent;
+  height: 60px;
+  left: 1187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 60px;
+}
+
+.settings .settings-tQColF {
+  background-color: transparent;
+  color: #00160a;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1254px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 175px;
+}
+
+.settings .spanc7nx3-m2Yib6 {
+  font-style: normal;
+}
